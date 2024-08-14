@@ -1,10 +1,11 @@
 How to Use Google Calendar as a Personal Journal
 
 Journaling has long been celebrated as a powerful tool for self-reflection, organization, and mental well-being. While traditional pen-and-paper journals hold a certain charm, digital tools have become increasingly popular for their convenience and versatility. One such tool is Google Calendar. Though primarily designed as a scheduling app, Google Calendar can be repurposed as an effective personal journal, helping you track your thoughts, emotions, and activities with ease. This guide will walk you through the process of transforming Google Calendar into a personalized journaling tool, complete with step-by-step instructions and creative ideas to make the most of this versatile application.
-Why Use Google Calendar as a Personal Journal?
+
+## Why Use Google Calendar as a Personal Journal?
 
 Before diving into the how-to, it's essential to understand why you might choose Google Calendar over other journaling options.
-Convenience and Accessibility
+### Convenience and Accessibility
 
 Google Calendar is accessible on multiple devices—phones, tablets, and computers. This means you can easily update your journal anytime, anywhere. No more forgetting your journal at home or worrying about carrying an extra notebook.
 Integration with Daily Life
